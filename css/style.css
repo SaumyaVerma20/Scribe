@@ -63,3 +63,12 @@ td {
 .tb tbody tr:last-of-type {
   border-bottom: 2px solid #009879;
 }
+
+#statusDiv {
+  background-color: rgb(36, 36, 134);
+  color: rgb(36, 36, 134);
+}
+
+#bl {
+  color: rgb(36, 36, 134);
+}
